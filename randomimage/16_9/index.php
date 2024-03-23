@@ -1,1 +1,0 @@
-<img src="https://random.imagecdn.app/2560/1440" alt="random image" style="width: 100%">
